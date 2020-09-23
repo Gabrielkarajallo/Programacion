@@ -1,0 +1,5 @@
+Proceso Ejercicio_2
+	
+	Escribir "El resultado de 123 * 134 es " 123 * 134
+	
+FinProceso
