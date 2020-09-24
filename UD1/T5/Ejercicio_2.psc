@@ -13,5 +13,4 @@ Proceso Ejercicio_2
 			Escribir "Fin"
 		FinSi
 	FinMientras
-	
 FinProceso
